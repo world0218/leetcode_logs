@@ -1,0 +1,1 @@
+[2025-08-24 14:15:03] [INFO] return employees.mul({"name":1,"salary":2}) Runtime:51.91%, Memory:59.14% Hint:可以想的直觀一點
