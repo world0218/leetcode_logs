@@ -1,0 +1,4 @@
+[2025-08-24 16:02:03] [INFO] Note: 題目主旨為利用async/await來處理非同步行為(網頁請求)，利用.then()跟async/await來處理Promise的結果
+[2025-08-24 16:04:10] [INFO] 依序await會造成O(promise(1)+...+promise(n))
+[2025-08-24 16:06:30] [INFO] 利用Promise.all()來形成O(Max(promise(0),...,promise(n)))，來同時進行所有Promise只需消耗最多時間的Promise就能完成
+[2025-08-24 16:07:24] [INFO] Runtime:94.8%, Memory:36.3%
